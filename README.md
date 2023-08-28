@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Giulio
+- 👀 I’m interested in UX, UI, Web and Mobile development
+- 🌱 I’m currently persuing a Bachelor degree in Computer Science at UNIPD
